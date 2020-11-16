@@ -4,15 +4,19 @@
 2 - Web Scraping with python.\
 3 - OOPS in python.\
 4 - Error and Exception Handling.\
-5 - Working with Images and CSV files in Python.
+5 - Working with Images and CSV files in Python.\
 6 - API handling with python
 
 
 # Data Science
 
-1 - Data Visualization with \ 
-Matplotlib and Pyplot
-2 - Data manipulation with  \ 
-Numpy and Pandas
+1 - Data Visualization with Matplotlib and Pyplot
+2 - Data manipulation with Numpy and Pandas
+
+# Web Development
+1- ReactJs and Vue Js
+2- Nodejs
+3- Html, CSS and Js
+4 - Sass and Bootstrap
 
 
