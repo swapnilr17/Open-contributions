@@ -10,7 +10,7 @@
 
 # Data Science
 
-1 - Data Visualization with Matplotlib and Pyplot
+1 - Data Visualization with Matplotlib and Pyplot \
 2 - Data manipulation with Numpy and Pandas
 
 # Web Development
