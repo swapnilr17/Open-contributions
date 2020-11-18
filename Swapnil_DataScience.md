@@ -6,7 +6,7 @@
 4 - Error and Exception Handling.\
 5 - Working with Images and CSV files in Python.\
 6 - API handling with python. \
-7 - Web Automation with Python (Selenium). \
+7 - Web Automation with Python (Selenium). 
 
 
 # Data Science
