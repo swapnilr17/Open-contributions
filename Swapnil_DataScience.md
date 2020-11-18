@@ -15,12 +15,3 @@
 2 - Data manipulation with Numpy and Pandas.\
 3 - Data Mining. \
 4 - Statistics.
-
-
-# Web Development
-1- ReactJs and Vue Js \
-2- Nodejs \
-3- Html, CSS and JavaScript \
-4 - Sass and Bootstrap \
-
-
